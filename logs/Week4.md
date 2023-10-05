@@ -16,3 +16,4 @@
 
 ## TODOs in Next Week
 1. Register HackMD
+2. Read a few honour projects in the past years. Learn much.
