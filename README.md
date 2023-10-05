@@ -10,8 +10,8 @@ Abstract
 
 Log/Joural
 * [Week 2](./logs/week2.md)
-* [Week 3](./logs/week3.md)
-* [Week 4](./logs/week4.md)
+* [Week 3](./logs/week_3.md)
+* [Week 4](./logs/Week4.md)
 * 
 
 
