@@ -7,7 +7,9 @@
 
 3. **Do initial research to gather ideas for the project topic**.
   - [Navigation planning for legged robots in challenging terrain](./Literature_Review/Navigationplanningforleggedrobotsinchallengingterrain.md)
-  - [LR_Learning to Walk via Deep Reinforcement Learning](./Literature_Review/LR_Learning to Walk via Deep Reinforcement Learning.md) 
+  - [LR_Learning to Walk via Deep Reinforcement Learning](./Literature_Review/LR_LearningtoWalkviaDeepReinforcementLearning.md)
+  - [LR_Development of quadruped walking robots A review](./Literature_Review/LR_DevelopmentofquadrupedwalkingrobotsAreview.md)
+  - [LR_A literature review on the optimization of legged robots](./Literature_Review/LR_Aliteraturereviewontheoptimizationofleggedrobots.md)
 
 4. **Conduct basic tests on the robot dog**.
 
