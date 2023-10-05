@@ -1,5 +1,8 @@
 # Week 4
 
+## Progress Details
+
+## Tasks
 - [ ] Build GitHub repository structure
 - [ ] Fill the blank in OverLeaf Template
 - [ ] Literature Review
