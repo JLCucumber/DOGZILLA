@@ -7,7 +7,7 @@ For legged robots (four-leg one), they naturally have the advantage over wheeled
 
 
 
-![](https://m.media-amazon.com/images/I/6192NjM39EL.jpg)
+![image](https://github.com/JLCucumber/DOGZILLA/assets/72130595/cf6bb815-9a91-4b35-974e-00a747db1011)
 
 ---
 
@@ -33,6 +33,6 @@ The current plan for my project is:
 * [Week 2](./logs/week2.md)
 * [Week 3](./logs/week_3.md)
 * [Week 4](./logs/Week4.md)
-* 
+* [Week_5](./logs/Week5.md)
 
 
