@@ -13,21 +13,16 @@ For legged robots (four-leg one), they naturally have the advantage over wheeled
 
 ## Project Plan
 The current plan for my project is:
-1. Start-up Phase (Week0 ~ Week6)
+
+**Start-up**
   - Define an **accurate** research topic and keep refine it afterwards
   - Tools and platforms set-up: GitHub repository, OverLeaf, Linux & ROS ...
   - Build robots and conduct basic tests
   - LITERATURE REVIEW
 
-2. Phase 2 (Week7 ~ End of Semester1)
-  -  Literature Review, take note & weekly report
-  -  Do some real actual stuffs with the robot dog
-    -  For example, developing dog in simulation: 1) build environment 2) make it run ...
-  -  Maintain GitHub and update OverLeaf
-  -  Extra learning: Reinforcement Learning
-    
-3. Phase 3
-  -  TODO
+Then the whole process is divided into three parts: **Literature Review, Implementation, and Writing**
+[TODO]
+![Project Plan 1](https://github.com/JLCucumber/DOGZILLA/assets/72130595/cfa07ad7-b07e-4698-a379-7a882a48f0b6)
 
 ## Log/Joural
 * [Week 2](./logs/week2.md)
