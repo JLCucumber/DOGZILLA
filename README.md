@@ -2,10 +2,7 @@
 
 ## Abstract
 
-This project is to use the robot dog _DOGZILLA S2_ to conduct a series of experiments with the aim on overcoming challenging terrain via Reinforcement Learning.
-For legged robots (four-leg one), they naturally have the advantage over wheeled or tracked platforms to surpass unstructured terrain, which might be filled with blocks, obstacles, gaps and stairs. 
-
-
+Quadruped robots are four-legged animal-like robots that are talented in traversing challenging environments. However, conventional control method does not work satisfactorily in handling terrain tasks, which limits the development of legged robot’s traversability. A learning-based method named Deep Reinforcement Learning (Deep RL) have been deployed successfully in various research and application of quadrupedal robots. However, the control policy acquired by Deep RL method often lacks versatility on different robots. This project utilizes a light-weight quadruped robot, DOGZILLA, to accomplish terrain traversing tasks based on {Deep RL method}. The training process follows a Sim-to-Real process. The result shows that the robot dog acquired basic traversability through intricate terrains such as stairs, dynamic platform and cluttered surface, indicating the successful validation of versatility of Deep RL methods and the promising traversability of light-weight quadruped systems. 
 
 ![image](https://github.com/JLCucumber/DOGZILLA/assets/72130595/cf6bb815-9a91-4b35-974e-00a747db1011)
 
@@ -31,9 +28,12 @@ Then the whole process is divided into three parts: **Literature Review, Impleme
 ![Project Plan 1](https://github.com/JLCucumber/DOGZILLA/assets/72130595/cfa07ad7-b07e-4698-a379-7a882a48f0b6)
 
 ## Log/Joural
-* [Week 2](./logs/week 2.md)
-* [Week 3](./logs/week 3.md)
-* [Week 4](./logs/Week 4.md)
-* [Week_5](./logs/Week 5.md)
-
+* [Week 2](./logs/week2.md)
+* [Week 3](./logs/week3.md)
+* [Week 4](./logs/Week4.md)
+* [Week_5](./logs/Week5.md)
+* [Week 6](./logs/Week6/Week6.md)
+* [Week 7](./logs/Week7/Week7.md)
+* [Week 8](./logs/Week8/Week8.md)
+* [Week 9](./logs/Week9/Week9.md)
 
