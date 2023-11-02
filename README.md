@@ -32,7 +32,7 @@ Then the whole process is divided into three parts: **Literature Review, Impleme
 * [Week 3](./logs/week3.md)
 * [Week 4](./logs/Week4.md)
 * [Week_5](./logs/Week5.md)
-* [Week 6](./logs/Week6/Week6.md)
+* [Week 6](./logs/Week6.md)
 * [Week 7](./logs/Week7/Week7.md)
 * [Week 8](./logs/Week8/Week8.md)
 * [Week 9](./logs/Week9/Week9.md)
